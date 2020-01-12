@@ -10,7 +10,7 @@
 #DL Strength, Run Stop, Pass Rush
 #LB Tackling, Run Stop, Pass Coverage
 Baltimore Ravens,BAL
-QB,Lamar Jackson,22,2018,80,75,85,61,84,95,9.47,4
+QB,Lamar Jackson,22,2018,98,90,94,92,96,95,9.47,4
 QB,Robert Griffin III,29,2012,78,72,80,85,80,80,4.0,2
 QB,Trace McSorley,23,2019,65,70,80,75,70,70,2.6,4
 RB,Mark Ingram,29,2011,86,80,95,90,85,80,15.0,3
@@ -21,7 +21,7 @@ RB,Patrick Ricard,25,2017,76,73,93,82,81,57,1.6,3
 RB,De'Lance Turner,30,2008,61,83,88,63,55,80,0.480,1
 WR,Willie Snead,26,2014,78,70,81,75,91,87,7,2
 WR,Jordan Lasley,22,2018,74,80,88,75,83,87,2.7,4
-WR,Marquise Brown,22,2019,74,75,87,85,90,82,0.6,4
+WR,Marquise Brown,22,2019,93,75,87,85,90,82,0.6,4
 WR,Chris Moore,26,2016,73,70,90,76,85,70,2.9,4
 WR,Miles Boykin,22,2019,70,53,89,77,70,60,0.24,4
 WR,Antoine Wesley,21,2019,65,71,68,58,70,54,1.7,3
